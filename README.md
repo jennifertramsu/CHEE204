@@ -1,3 +1,3 @@
 # CHEE-204
 
-<p> Homework problem sets </p>
+<p> Homework problem sets and practice problems </p>
